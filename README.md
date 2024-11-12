@@ -1,5 +1,4 @@
 <h1>Perfil de Manuel Romano, alias RomanoBiker, alumno de la academia ConquerBlocks y futuro Desarrollador FullStack</h1> 
-<body>
 
 ## 🛠️ Habilidades Técnicas
 
@@ -27,8 +26,7 @@
 - **💼 Infojobs**: [Manuel Romano Fernández](https://www.infojobs.net/candidate/cv/view/index.xhtml)
 - **✉️ Email**: manu_rf@live.com / mromanotravel@outlook.es
 
-</body>
 
 <footer>
-<p>Estoy emocionado por las oportunidades que se presenten en el campo de la programación y el desarrollo de software y aplicaciones. ¡No dudes en ponerte en contacto conmigo si tienes un proyecto interesante en mente o si buscas colaboración en alguna iniciativa tecnológica!</p>
+  <p>Estoy emocionado por las oportunidades que se presenten en el campo de la programación y el desarrollo de software y aplicaciones. ¡No dudes en ponerte       en contacto conmigo si tienes un proyecto interesante en mente o si buscas colaboración en alguna iniciativa tecnológica!</p>
 </footer>
