@@ -6,9 +6,9 @@
 <ul>
   <li> 💻 Lenguajes de Programación: <strong>Python</strong> 
   </li>
-  <li>🔧 Gestión de Versiones**: Git, GitHub</li>
-  <li>☁️ Base de datos**: MySQL</li>
-  <li>🧠 Conocimientos**: WSL, HTML, Streamlit, Matplotlib
+  <li>🔧 Gestión de Versiones: Git, GitHub</li>
+  <li>☁️ Base de datos: <strong>MySQL</strong></li>
+  <li>🧠 Conocimientos: WSL, HTML, Streamlit, Matplotlib
   </li>
 </ul>
 
