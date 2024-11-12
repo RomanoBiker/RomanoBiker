@@ -1,12 +1,17 @@
 <h1>Perfil de Manuel Romano, alias RomanoBiker, alumno de la academia ConquerBlocks y futuro Desarrollador FullStack</h1> 
 
-## 🛠️ Habilidades Técnicas
 
-- **💻 Lenguajes de Programación**: <strong>Python</strong> 
-- **🔧 Gestión de Versiones**: Git, GitHub
-- **☁️ Base de datos**: MySQL
-- **🧠 Conocimientos**: WSL, HTML, Streamlit, Matplotlib
-<br></br>
+
+## 🛠️ Habilidades Técnicas
+<ul>
+  <li> 💻 Lenguajes de Programación: <strong>Python</strong> 
+  </li>
+  <li>🔧 Gestión de Versiones**: Git, GitHub</li>
+  <li>☁️ Base de datos**: MySQL</li>
+  <li>🧠 Conocimientos**: WSL, HTML, Streamlit, Matplotlib
+  </li>
+</ul>
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
