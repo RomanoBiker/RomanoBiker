@@ -1,4 +1,4 @@
-<h1>Perfil de Manuel Romano, alias RomanoBiker, alumno de la academia ConquerBlocks y futuro Desarrollador FullStack</h1> 
+<h1>Perfil de Manuel Romano, alumno de la academia ConquerBlocks, Programador en Python y futuro Desarrollador FullStack</h1> 
 
 
 
@@ -8,7 +8,7 @@
   </li>
   <li>🔧 Gestión de Versiones: Git, GitHub</li>
   <li>☁️ Base de datos: <strong>MySQL</strong></li>
-  <li>🧠 Conocimientos: WSL, HTML, Streamlit, Matplotlib
+  <li>🧠 Conocimientos: WSL, HTML, Streamlit
   </li>
 </ul>
 
