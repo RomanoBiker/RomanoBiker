@@ -25,7 +25,7 @@
 
 ## 📚 Educación & Certificaciones
 
-- **Desarrollador FullStack** - Academia <strong>Conquer Blocks</strong> (2024 - Presente)
+- **Máster en Desarrollo Web FullStack** - Academia <strong>Conquer Blocks</strong> (2024 - Presente)
 - **Community Manager en Hostelería y Turismo** - <strong>Euroinnova formación / Universidad Antonio de Nebrija</strong> (2021-2022)
 - **Técnico Superior en Agencias de Viajes y Gestión de Eventos** - <strong>IES Eusebio da Guarda</strong> (2015-2018)
 
