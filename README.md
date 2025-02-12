@@ -4,7 +4,7 @@
 
 ## 🛠️ Habilidades Técnicas
 <ul>
-  <li> 💻 Lenguajes de Programación: <strong>Python</strong> 
+  <li> 💻 Lenguajes de Programación: <strong>Python</strong> <strong>Javascript</strong> 
   </li>
   <li>🔧 Gestión de Versiones: Git, GitHub</li>
   <li>☁️ Base de datos: <strong>MySQL</strong></li>
