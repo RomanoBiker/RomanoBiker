@@ -15,7 +15,7 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://images.app.goo.gl/Uqmc7yLcg4TMW3PQ8" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.flaticon.es/icono-gratis/mysql_5968521?related_id=5968254&origin=search" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/logos/streamlit.svg" />
