@@ -19,6 +19,7 @@
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/logos/streamlit.svg" />
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 
 <br></br>
 
