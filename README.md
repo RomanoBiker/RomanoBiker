@@ -1,5 +1,5 @@
-<h2>Soy Programador Full-Stack Trainee con experiencia en Python y JavaScript, en constante formación en la academia ConquerBlocks. Me apasiona la Transformación Digital y la innovación tecnológica, siempre buscando mejorar mis habilidades y contribuir a proyectos desafiantes.</h2> 
-
+<h1>Soy Programador Full-Stack Trainee con experiencia en Python y JavaScript, en constante formación en la academia ConquerBlocks.</h1> 
+<h2>Me apasiona la Transformación Digital y la innovación tecnológica, siempre buscando mejorar mis habilidades y contribuir a proyectos desafiantes.</h2>
 
 
 ## 🛠️ Habilidades Técnicas
@@ -8,7 +8,7 @@
   </li>
   <li>🔧 Gestión de Versiones: Git, GitHub</li>
   <li>☁️ Base de datos: <strong>MySQL</strong></li>
-  <li>🧠 Conocimientos: IA, WSL, HTML, CSS, Streamlit
+  <li>🧠 Conocimientos: IA, WSL, HTML, CSS, Agile, Streamlit
   </li>
 </ul>
 
