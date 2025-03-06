@@ -1,4 +1,4 @@
-<h1>Perfil de Manuel Romano, alumno de la academia ConquerBlocks, Programador en Python y futuro Desarrollador FullStack</h1> 
+<h1>Soy Programador Full-Stack Trainee con experiencia en Python y JavaScript, en constante formación en la academia ConquerBlocks. Me apasiona la Transformación Digital y la innovación tecnológica, siempre buscando mejorar mis habilidades y contribuir a proyectos desafiantes.</h1> 
 
 
 
@@ -8,7 +8,7 @@
   </li>
   <li>🔧 Gestión de Versiones: Git, GitHub</li>
   <li>☁️ Base de datos: <strong>MySQL</strong></li>
-  <li>🧠 Conocimientos: WSL, HTML, CSS, Streamlit
+  <li>🧠 Conocimientos: IA, WSL, HTML, CSS, Streamlit
   </li>
 </ul>
 
