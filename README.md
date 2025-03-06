@@ -32,7 +32,7 @@
 ## 🌐 Conéctate Conmigo 
 
 - **💻 GitHub**: [<strong>RomanoBiker</strong>](https://github.com/RomanoBiker)
-- **💼 LinkedIn**: [Manuel Romano Fernández](https://www.linkedin.com/in/manuel-romano-fernández-91b54215a/)
+- **💼 LinkedIn**: [Manuel Romano Fernández](https://www.linkedin.com/in/manuromano/)
 - **💼 Infojobs**: [Manuel Romano Fernández](https://www.infojobs.net/candidate/cv/view/index.xhtml)
 - **✉️ Email**: manu_rf@live.com / mromanotravel@outlook.es
 
